@@ -9,8 +9,8 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ 𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/Samanth_abot"> 𝚂𝚊𝚖𝚊𝚗𝚝𝚑𝚊 </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/albintko"> 𝙰𝙻𝙱𝙸𝙽 </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/malluchickv3_bot"> ᔑᑕᗩᖇᏞᗴᎢ ᗯᏆᎢᑕᕼ 🦹‍♀  </a>
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/Tony_Stark06"> 𝚃𝙾𝙽𝚈 </a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,11 +19,11 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Samantha-a/Film-Club"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/malluchickv3_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
   
 
 <b>DEVS:</b>
-- <a href=https://t.me/albintko>𝙰𝙻𝙱𝙸𝙽</a>"""
+- <a href=https://t.me/Tony_Stark06>𝚃𝙾𝙽𝚈</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
