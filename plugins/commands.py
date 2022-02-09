@@ -76,7 +76,7 @@ async def start(client, message):
             btn.append([InlineKeyboardButton("🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="**Sorry Man You'll Have To Join My Channel First To Use Me 🙂🙂Just Click On The Join Button Below And Come Back And Click On Retry......**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
